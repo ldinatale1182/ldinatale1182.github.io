@@ -1,1 +1,14 @@
-theme: jekyll-theme-minimal
+title: Luigi Di Natale
+email: l.dinatale1182@gmail.com
+description: >-  
+  Senior Software Engineer with expertise in Java, Spring, React, PostgreSQL, and Go.
+baseurl: ""
+url: "https://luigidinatale.github.io"
+github_username: luigidinatale
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
